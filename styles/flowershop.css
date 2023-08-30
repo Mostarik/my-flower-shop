@@ -1,0 +1,246 @@
+.all-button{
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 43px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.bannar{
+    display: flex;
+    padding: 30px 30px 0px 150px;
+    background: rgba(229, 84, 115, 0.10);
+    align-items: center;
+
+}
+
+.bannar .profile-pic{
+    width: 500px;
+}
+
+.head-title{
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    line-height: normal;
+}
+.head-paragraph{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.second-part-heading{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+
+.second-part-para{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+
+}
+
+.first-flower{
+    width: 310px;
+    height: 428px;
+    flex-shrink: 0;
+    /* width: 464px;
+    height: 538px;
+    flex-shrink: 0; */
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding: 110px 78px 0px 76px;
+
+
+}
+
+.second-flower{ 
+    width: 310px;
+    height: 428px;
+    flex-shrink: 0;
+    /* width: 464px;
+    height: 538px;
+    flex-shrink: 0; */
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    padding: 110px 78px 0px 76px;
+
+
+}
+
+.third-flower{
+    width: 310px;
+    height: 428px;
+    flex-shrink: 0;
+    /* width: 464px;
+    height: 538px;
+    flex-shrink: 0; */
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    padding: 110px 78px 0px 76px;
+
+}
+
+.third-part{
+    display: flex;
+    /* padding: 30px; */
+    /* padding: 110px 78px 0px 76px; */
+    justify-content: space-around;
+
+
+}
+
+.flower-name{
+    display: flex;
+    justify-content: space-around;
+    text-decoration-line: underline;
+    font-size: 24px;
+    color: #272727;
+
+}
+
+.icon{
+    width: 100px;
+    height: 100pxpx;
+    flex-shrink: 0;
+    /* width: 464px;
+    height: 538px;
+    flex-shrink: 0; */
+    /* border-radius: 300px 300px 0px 0px; */
+    background: rgba(39, 39, 39, 0.05);
+    padding: 110px ;
+}
+
+.icon-place{
+    display: flex;
+   justify-content: center;
+
+}
+
+.second-bannar{
+    display: flex;
+    padding: 30px 30px 0px 150px;
+    background: rgba(229, 84, 115, 0.10);
+    align-items: center;
+    margin-top: 100px;
+
+}
+
+.profile-pic-two{
+    width: 500px;
+}
+
+.head-title-two{
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    line-height: normal;
+}
+.head-paragraph{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.four-image{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+
+.last{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.latest-Deals{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+.coupon{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 30px;
+
+}
+
+
+input[type="text"]{
+    border: #272727;
+    width: 700px;
+    height: 50px;
+    padding: 0 16px;
+}
+
+.last{
+    
+    margin-bottom: 100px;  
+    background-image: url('../image/Rectangle\ 9.png');
+    width: 1440px;
+    height: 449px;
+    
+
+    margin-left: 240px;
+    margin-right: 240px;
+}
+
+/* .third-part{
+    margin-left: 240px;
+    margin-right: 240px;
+    } */
+
+.footer-title{
+
+    color: #E55473;
+    text-align: center;
+    font-size: 48px;
+
+    font-weight: 800;
+
+}
+.footer-fist-para{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.footer-second-para{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.footer{
+    background: #111010;
+    margin-bottom: 20px;
+    
+}
+
+span{
+    color: #FFF;
+}
+
+/* .lmirgin{
+    margin-top: 100px;
+} */
